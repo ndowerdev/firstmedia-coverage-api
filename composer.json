@@ -1,0 +1,12 @@
+{
+  "require": {
+    "imangazaliev/didom": "^2.0",
+    "mikecao/flight": "^2.0",
+    "cocur/slugify": "^4.0"
+  },
+  "autoload": {
+    "classmap": [
+      "modules/"
+    ]
+  }
+}
